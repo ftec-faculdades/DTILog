@@ -1,0 +1,24 @@
+{
+    "name": "ftec-faculdades/dti-log",
+    "description": "Modulo responsável para o gerenciamento dos logs",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "module",
+        "zf2",
+        "dti",
+		"log"
+    ],
+    "homepage": "https://github.com/ftec-faculdades/DTILog",
+    "authors": [
+        {
+            "name": "Sérgio Ernane Munhós Hermes",
+            "email": "sergiohermes@ftec.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "DTILog": "src/"
+        }
+    }
+}
